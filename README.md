@@ -57,3 +57,13 @@ Each item is stored as a dictionary:
   "jumlah": 12,
   "harga": 10000
 }
+
+---
+
+## Demonstration
+
+A demonstration video of the system is available here:
+https://youtu.be/8qJukJa7ZLk
+
+The video shows how the system works, including menu navigation and CRUD operations.
+Note: The video is presented in Indonesian, but the workflow is still easy to follow.
