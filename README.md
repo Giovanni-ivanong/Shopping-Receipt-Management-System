@@ -57,7 +57,7 @@ Each item is stored as a dictionary:
   "jumlah": 12,
   "harga": 10000
 }
-
+```
 ---
 
 ## Demonstration
